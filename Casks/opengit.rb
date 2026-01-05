@@ -1,6 +1,6 @@
 cask "opengit" do
-  version "1.0.13"
-  sha256 "f291cba4bca4a6c3aaf57ea2302a7c0be2c232501cb4a7bbb34b1d3e509f6128"
+  version "1.0.14"
+  sha256 "341b07678cefc64efc1b09096fb7bbe29d129669000ab33b46bddfdefeed3f00"
 
   url "https://github.com/DevThibautMonin/open_git/releases/download/v#{version}/OpenGit-#{version}.dmg"
   name "OpenGit"
